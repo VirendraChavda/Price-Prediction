@@ -1,7 +1,9 @@
 # Car Price Prediction
 ### Author: Virendrasinh Chavda
 
+<p align="justify">
 This repository contains an end-to-end machine learning project to predict car prices using various regression models. The project includes data preprocessing, feature selection, dimensionality reduction, and performance evaluation of models. Additionally, the effects of log transformation and dimensionality reduction techniques on the models are analyzed.
+</p>
 
 ---
 
@@ -39,6 +41,8 @@ To set up and use this project, follow these steps:
    ```bash
    jupyter notebook
    ```
+---
+
 ## Features
 
 ### Dimensionality Reduction Analysis
