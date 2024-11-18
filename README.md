@@ -105,6 +105,9 @@ To set up and use this project, follow these steps:
 - Models performed consistently better with Lasso-based dimensionality reduction compared to correlation-based reduction.
 - R-Squared scores improved significantly for most models after dimensionality reduction.
 
+![Feature Selection](image2.png)
+![Result](image3.png)
+
 ### Log Transformation Impact
 - Applying log transformation to the `Price` column improved R-Squared scores for most models.
 
@@ -120,9 +123,6 @@ To set up and use this project, follow these steps:
 
 ### Feature Engineering
 - Incorporate additional features like resale value, service history, or customer reviews.
-
-### Deployment
-- Deploy the model as a web app using Flask or Streamlit for real-time predictions.
 
 ---
 
